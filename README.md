@@ -1,9 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e6c7ff,100:65568f&height=120&text=Hi,%20I'm%20Yujin%20Lee%20👋&animation=&fontColor=5b1db9&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 👋 Hello, my name is Yujin.</li></li>I’m a Metaverse & Game Studies student interested in gameplay and cutscene programming.</li></li>I usually use Unity and Unreal Engine to build story driven games with cinematic camera work. </li>I love experimenting with emotion based interactions and always enjoy taking on new challenges in game development. 🎮✨</li> </div> 
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Yujin's GitHub">
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -12,6 +8,8 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           </div>
+        <Strong> elly3385@gmail.com </Strong>
+</p><br>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
@@ -22,7 +20,6 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yeuljliyn&bg_color=180,00000000,&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuljliyn&layout=compact&bg_color=180,00000000,&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeuljliyn&show_icons=true&theme=radical)
            /> </div> 
     </div>
