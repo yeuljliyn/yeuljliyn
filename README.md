@@ -1,5 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice ways to reach me
 [![Tech Blog](https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@yeuljliyn/posts)
+<a href="https://velog.io/@devbin/posts/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 [![Email](https://img.shields.io/badge/elly3385@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:elly3385@gmail.com)
 
 ----
