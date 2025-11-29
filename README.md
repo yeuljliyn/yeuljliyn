@@ -30,10 +30,11 @@ Hi! I’m a Metaverse & Game Studies student crafting games — from gameplay lo
 
 ### 💪 Skills
 
-![C#](https://img.shields.io/badge/CSharp-%23323330.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat-square&logo=Github&logoColor=white)
-![C](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat-square&logo=Github&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
