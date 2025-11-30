@@ -39,5 +39,6 @@ Hi! I’m a Metaverse & Game Studies student crafting games — from gameplay lo
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ----
-
+</details>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+</details>
